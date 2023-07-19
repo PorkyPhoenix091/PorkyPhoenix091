@@ -1,5 +1,5 @@
 ### Hi there 👋
- - 🌱 I’m currently learning software security
+ - 🌱 I’m currently learning Web development
  - 🔭 I’m currently working on my personal portfolio!
 - 📫 How to reach me: anthonygiuliano2acc@gmail.com
 
